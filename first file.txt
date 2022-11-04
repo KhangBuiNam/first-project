@@ -1,1 +1,13 @@
-coppy right 2020
+Full Name: Bui Nam Khang
+Date of birth: Aug 5, 2004
+Gender: Male
+Phone: 0333 303 1752
+Email: khang.buinam.2147@gmail.com
+Education
+	- Student at Ho Chi Minh City University Technology and Education:
+		+ Faculties: Electrical and Electronic Engineering Technology.
+		+ Departments: Embedded Systems and Internet of Things
+	- GPA: None/4.0
+Work Experience: 
+	None
+
